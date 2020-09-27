@@ -8,7 +8,7 @@ Quizzler is a simple questionnaire app developed for learning the basics of flut
 
 ## Demo
 
-<img src="https://github.com/VaibhavGoyal458/quizzler/blob/master/assets/images/home.jpg" width="300px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/VaibhavGoyal458/quizzler/blob/master/assets/images/question.jpg" width="300px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/VaibhavGoyal458/quizzler/blob/master/assets/images/result.jpg" width="300px"> 
+<img src="https://github.com/VaibhavGoyal458/quizzler/blob/master/assets/images/home.jpg" width="260px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/VaibhavGoyal458/quizzler/blob/master/assets/images/question.jpg" width="260px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/VaibhavGoyal458/quizzler/blob/master/assets/images/result.jpg" width="260px"> 
 
 ## Setup
 
