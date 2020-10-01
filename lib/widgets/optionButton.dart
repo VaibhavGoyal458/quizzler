@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quizzler/utils/constants.dart';
+import 'package:quizzler/utils/size_config.dart';
 
 class OptionButton extends StatelessWidget {
   final String buttonText;
@@ -21,6 +22,7 @@ class OptionButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SizeConfig().init(context);
     return FlatButton(
       shape: RoundedRectangleBorder(
         side: BorderSide(
@@ -38,7 +40,8 @@ class OptionButton extends StatelessWidget {
               horizontal: 20),
           child: Text(
             '${buttonText.toUpperCase()}',
-            style: kOptionButtonTextStyle.copyWith(color: textColor),
+            style: kOptionButtonTextStyle.copyWith(
+                color: textColor, fontSize: SizeConfig.blockSizeVertical * 2.6),
           ),
         ),
       ),

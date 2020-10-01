@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:quizzler/screens/launch.dart';
 import 'package:quizzler/utils/constants.dart';
+import 'package:quizzler/utils/size_config.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

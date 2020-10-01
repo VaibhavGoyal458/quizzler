@@ -27,7 +27,6 @@ const kLaunchButtonStyle = TextStyle(
 
 const kQuizQuestionTextStyle = TextStyle(
   color: Colors.white,
-  fontSize: 22,
   fontFamily: 'Titillium',
   fontWeight: FontWeight.w700,
 );
